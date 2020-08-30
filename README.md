@@ -61,6 +61,8 @@
   <li><a href="https://github.com/hackyourfuturebelgium/class-11-12/issues?q=milestone%3A4">all issues</a></li>
 </ul>
 </details>
+
+[TOP](#class-11-12)
 <!-- END MODULES -->
 
 ---
@@ -129,6 +131,8 @@
   </td>
 </tr></table > 
 </details>
+
+[TOP](#class-11-12)
 <!-- END STUDENTS -->
 
 ---
@@ -203,4 +207,6 @@ Masha    </h3>
   </td>
 </tr></table>
 </details>
+
+[TOP](#class-11-12)
 <!-- END COACHES -->
