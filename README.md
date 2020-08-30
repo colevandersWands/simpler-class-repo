@@ -22,7 +22,7 @@
 ---
 
 <!-- BEGIN MODULES -->
-<details><summary><h2 style="display:inline;">Modules</h2></summary>
+<h2>Modules</h2><details><summary>expand</summary>
 
   <h3><a href="https://hackyourfuture.be/precourse">precourse</a></h3>
 <ul>
@@ -66,7 +66,7 @@
 ---
 
 <!-- BEGIN STUDENTS -->
-<details><summary><h2 style="display:inline;">Students</h2></summary>
+<h2>Students</h2><details><summary>expand</summary>
 
   <table> <tr>
   <td><img src='./lib/avatars/students/octocat-avatar.jpeg' alt='Octo Cat' /></td>
@@ -134,7 +134,7 @@
 ---
 
 <!-- BEGIN COACHES -->
-<details><summary><h2 style="display:inline;">Coaches</h2></summary>
+<h2>Coaches</h2><details><summary>expand</summary>
 
   <table><tr>
   <td><img src='./lib/avatars/coaches/octocat-avatar.jpeg' alt='Octo Cat' /></td>
