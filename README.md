@@ -83,7 +83,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/IrynaSpyrydonova">IrynaSpyrydonova</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AIrynaSpyrydonova">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AIrynaSpyrydonova">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AIrynaSpyrydonova">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -93,7 +93,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/abelRoland">abelRoland</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AabelRoland">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AabelRoland">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AabelRoland">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -103,7 +103,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/julia-sod">julia-sod</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Ajulia-sod">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ajulia-sod">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ajulia-sod">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -113,7 +113,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/yauheniya-askolkava">yauheniya-askolkava</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Ayauheniya-askolkava">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ayauheniya-askolkava">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ayauheniya-askolkava">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -123,7 +123,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/Eltayeb-Elgaali">Eltayeb-Elgaali</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AEltayeb-Elgaali">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AEltayeb-Elgaali">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AEltayeb-Elgaali">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -133,7 +133,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/yildiraykoyuncu">yildiraykoyuncu</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Ayildiraykoyuncu">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ayildiraykoyuncu">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ayildiraykoyuncu">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -143,7 +143,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/Sayed94h">Sayed94h</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3ASayed94h">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ASayed94h">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ASayed94h">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -153,7 +153,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/ismailtugan">ismailtugan</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aismailtugan">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aismailtugan">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aismailtugan">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -163,7 +163,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/KaterynaKim">KaterynaKim</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AKaterynaKim">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AKaterynaKim">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AKaterynaKim">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -173,7 +173,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/fmkarakus">fmkarakus</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Afmkarakus">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Afmkarakus">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Afmkarakus">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -183,7 +183,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/harunaltunhr">harunaltunhr</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aharunaltunhr">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aharunaltunhr">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aharunaltunhr">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -193,7 +193,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/razvanbrb">razvanbrb</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Arazvanbrb">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Arazvanbrb">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Arazvanbrb">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -203,7 +203,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/lisarosaa">lisarosaa</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Alisarosaa">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Alisarosaa">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Alisarosaa">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -213,7 +213,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/ms-np">ms-np</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Ams-np">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ams-np">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ams-np">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -223,7 +223,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/Meowri">Meowri</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AMeowri">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AMeowri">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AMeowri">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -233,7 +233,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/yaredyilma">yaredyilma</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Ayaredyilma">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ayaredyilma">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ayaredyilma">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -243,7 +243,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/nouralkurd">nouralkurd</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Anouralkurd">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Anouralkurd">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Anouralkurd">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -253,7 +253,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/ali1996-sy">ali1996-sy</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aali1996-sy">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aali1996-sy">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aali1996-sy">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -263,7 +263,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/aleks2407">aleks2407</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aaleks2407">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aaleks2407">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aaleks2407">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -273,7 +273,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/oguzkarademir">oguzkarademir</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aoguzkarademir">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aoguzkarademir">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aoguzkarademir">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -283,7 +283,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/mametur">mametur</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Amametur">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amametur">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amametur">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -293,7 +293,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/Mohammad-Musa">Mohammad-Musa</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AMohammad-Musa">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AMohammad-Musa">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AMohammad-Musa">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -303,7 +303,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/LujiAnna">LujiAnna</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3ALujiAnna">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ALujiAnna">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ALujiAnna">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -313,7 +313,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/aame1">aame1</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aaame1">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aaame1">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aaame1">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -323,7 +323,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/HazemBittar">HazemBittar</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AHazemBittar">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AHazemBittar">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AHazemBittar">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -333,7 +333,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/pavelbidenko2018">pavelbidenko2018</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Apavelbidenko2018">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Apavelbidenko2018">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Apavelbidenko2018">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -343,7 +343,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/gelilaa">gelilaa</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Agelilaa">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Agelilaa">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Agelilaa">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -353,7 +353,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/galalkoro">galalkoro</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Agalalkoro">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Agalalkoro">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Agalalkoro">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -363,7 +363,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/Boam1994">Boam1994</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3ABoam1994">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ABoam1994">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ABoam1994">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -373,7 +373,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/adekimpianna">adekimpianna</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aadekimpianna">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aadekimpianna">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aadekimpianna">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -383,7 +383,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/Feruzteame">Feruzteame</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AFeruzteame">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AFeruzteame">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AFeruzteame">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -393,7 +393,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/murvanessa">murvanessa</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Amurvanessa">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amurvanessa">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amurvanessa">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -403,7 +403,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/okozmovskaya">okozmovskaya</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aokozmovskaya">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aokozmovskaya">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aokozmovskaya">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -413,7 +413,7 @@ Slack is great for chatting but links and good explanations can easily get lost 
     <ul>
         <li><code><a href="https://github.com/miroslavveljanoski">miroslavveljanoski</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Amiroslavveljanoski">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amiroslavveljanoski">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amiroslavveljanoski">assignee</a></li>
     </ul>
   </td>
 </tr></table > 
@@ -435,7 +435,7 @@ Tiago Mendes-Costa    </h3>
     <ul>
         <li><code><a href="https://github.com/otagi">otagi</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aotagi">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aotagi">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aotagi">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -446,7 +446,7 @@ Stéphane Nicoll    </h3>
     <ul>
         <li><code><a href="https://github.com/snicoll">snicoll</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Asnicoll">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Asnicoll">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Asnicoll">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -457,7 +457,7 @@ Ibrahim Dogrusoz    </h3>
     <ul>
         <li><code><a href="https://github.com/idogrusoz">idogrusoz</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aidogrusoz">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aidogrusoz">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aidogrusoz">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -468,7 +468,7 @@ Akbel Hanim    </h3>
     <ul>
         <li><code><a href="https://github.com/akbelcolak">akbelcolak</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aakbelcolak">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aakbelcolak">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aakbelcolak">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -479,7 +479,7 @@ Yavuz Ugurtas    </h3>
     <ul>
         <li><code><a href="https://github.com/yavuzugurtas">yavuzugurtas</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Ayavuzugurtas">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ayavuzugurtas">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Ayavuzugurtas">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -490,7 +490,7 @@ Ibrahim Akadar    </h3>
     <ul>
         <li><code><a href="https://github.com/akadarakku">akadarakku</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aakadarakku">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aakadarakku">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aakadarakku">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -501,7 +501,7 @@ Ibrahim Akadar    </h3>
     <ul>
         <li><code><a href="https://github.com/colevandersWands">colevandersWands</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AcolevandersWands">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AcolevandersWands">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AcolevandersWands">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -512,7 +512,7 @@ Joel Camacho    </h3>
     <ul>
         <li><code><a href="https://github.com/JoeCamacho">JoeCamacho</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3AJoeCamacho">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AJoeCamacho">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3AJoeCamacho">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -523,7 +523,7 @@ Mert Demirok    </h3>
     <ul>
         <li><code><a href="https://github.com/mert1980">mert1980</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Amert1980">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amert1980">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amert1980">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -534,7 +534,7 @@ Ufuk Uysal    </h3>
     <ul>
         <li><code><a href="https://github.com/u-uysal">u-uysal</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Au-uysal">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Au-uysal">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Au-uysal">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -545,7 +545,7 @@ Dirk Jacobs    </h3>
     <ul>
         <li><code><a href="https://github.com/dirk-jacobs">dirk-jacobs</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Adirk-jacobs">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Adirk-jacobs">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Adirk-jacobs">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -556,7 +556,7 @@ Louise Picot    </h3>
     <ul>
         <li><code><a href="https://github.com/louisepicot">louisepicot</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Alouisepicot">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Alouisepicot">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Alouisepicot">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -567,7 +567,7 @@ Kevin Tassi    </h3>
     <ul>
         <li><code><a href="https://github.com/kevintss">kevintss</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Akevintss">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Akevintss">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Akevintss">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -578,7 +578,7 @@ Dena Cho    </h3>
     <ul>
         <li><code><a href="https://github.com/denacho">denacho</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Adenacho">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Adenacho">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Adenacho">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -589,7 +589,7 @@ Berihu Gebremedhin    </h3>
     <ul>
         <li><code><a href="https://github.com/Berihugebre">Berihugebre</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3ABerihugebre">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ABerihugebre">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ABerihugebre">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -600,7 +600,7 @@ Maël Brunet    </h3>
     <ul>
         <li><code><a href="https://github.com/maeligg">maeligg</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Amaeligg">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amaeligg">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Amaeligg">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -611,7 +611,7 @@ Unmesh Joshi    </h3>
     <ul>
         <li><code><a href="https://github.com/unmeshvrije">unmeshvrije</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Aunmeshvrije">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aunmeshvrije">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Aunmeshvrije">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -622,7 +622,7 @@ Charles-Axel Pauwels    </h3>
     <ul>
         <li><code><a href="https://github.com/cpauwels">cpauwels</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Acpauwels">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Acpauwels">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Acpauwels">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -633,7 +633,7 @@ Sali AlMurshidi    </h3>
     <ul>
         <li><code><a href="https://github.com/Sali-Almurshidi">Sali-Almurshidi</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3ASali-Almurshidi">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ASali-Almurshidi">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ASali-Almurshidi">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -644,7 +644,7 @@ Laurent    </h3>
     <ul>
         <li><code><a href="https://github.com/LaurentVB">LaurentVB</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3ALaurentVB">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ALaurentVB">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3ALaurentVB">assignee</a></li>
     </ul>
   </td>
 </tr></table>
@@ -655,7 +655,7 @@ Koen    </h3>
     <ul>
         <li><code><a href="https://github.com/koenvd">koenvd</a></code></li>
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=author%3Akoenvd">authored</a></li>
-        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Akoenvd">assigned</a></li>
+        <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assignee%3Akoenvd">assignee</a></li>
     </ul>
   </td>
 </tr></table>
