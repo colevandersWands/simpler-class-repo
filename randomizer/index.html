@@ -13,7 +13,7 @@
 <body>
 
   <div id='user-interface'>
-    <h2>Group Randomizer</h2>
+    <h2 id='header'>Group Randomizer</h2>
     <form id='randomizer-form'>
       <input type="number" value="1" name="number" min="1" />
       <br>
@@ -130,6 +130,16 @@
         const form = document.getElementById('randomizer-form');
         form.number.setAttribute('max', students.length);
         form.addEventListener('click', randomizeHandler(students));
+      })
+      .catch(err => {
+        console.log(err);
+      });
+
+    fetch('../lib/data/index.json')
+      .then(res => res.json())
+      .then(mainData => {
+        document.getElementById('header')
+          .innerHTML = mainData.repoName;
       })
       .catch(err => {
         console.log(err);
