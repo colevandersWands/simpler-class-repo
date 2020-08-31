@@ -15,17 +15,16 @@
   <div id='user-interface'>
     <h2 id='header'>Group Randomizer</h2>
     <form id='randomizer-form'>
-      <input type="number" value="1" name="number" min="1" />
+      <input type="number" value="1" name="number" min="1" /><input type="button" value="generate groups" />
       <br>
       <input type="radio" name="sortType" value="numberOfGroups" checked="true">
       <label for="female">number of groups</label>
       <br>
       <input type="radio" name="sortType" value="groupSize">
       <label for="male">group size</label>
-      <br>
-      <br>
-      <input type="button" value="generate groups" />
     </form>
+    <br>
+    <button><a id='back-to-repo' href=''>back to repo</a></button>
     <hr>
     <div id="groups"></div>
   </div>
@@ -140,6 +139,8 @@
       .then(mainData => {
         document.getElementById('header')
           .innerHTML = mainData.repoName;
+        document.getElementById('back-to-repo')
+          .href = `${mainData.domain}/${mainData.repoName}`;
       })
       .catch(err => {
         console.log(err);
