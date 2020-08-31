@@ -24,43 +24,44 @@
 <!-- BEGIN MODULES -->
 <h2>Modules</h2><details><summary>expand</summary>
 
-1. ### [working-with-code](https://hackyourfuture.be/working-with-code) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/1)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [working-with-code](https://hackyourfuture.be/working-with-code)  
+    - `1 week`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/1)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aworking-with-code+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/1)_
 
-1. ### [incremental-development](https://hackyourfuture.be/incremental-development) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/2)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [incremental-development](https://hackyourfuture.be/incremental-development)  
+    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/2)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aincremental-development+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/2)_
 
-1. ### [debugging](https://hackyourfuture.be/debugging) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/3)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [debugging](https://hackyourfuture.be/debugging)  
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/3)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Adebugging+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/3)_
 
-1. ### [testing](https://hackyourfuture.be/testing) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/4)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [testing](https://hackyourfuture.be/testing)  
+    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/4)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Atesting+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/4)_
 
-1. ### [separation-of-concerns](https://hackyourfuture.be/separation-of-concerns) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/5)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [separation-of-concerns](https://hackyourfuture.be/separation-of-concerns)  
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/5)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aseparation-of-concerns+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/5)_
 
-1. ### [state](https://hackyourfuture.be/state) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/6)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [state](https://hackyourfuture.be/state)  
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/6)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Astate+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/6)_
 
-1. ### [encapsulation](https://hackyourfuture.be/encapsulation) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/7)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [encapsulation](https://hackyourfuture.be/encapsulation)  
+    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/7)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aencapsulation+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/7)_
 
-1. ### [asynchronous-programming](https://hackyourfuture.be/asynchronous-programming) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/8)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [asynchronous-programming](https://hackyourfuture.be/asynchronous-programming)  
+    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/8)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aasynchronous-programming+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/8)_
 
-1. ### [web-apps](https://hackyourfuture.be/web-apps) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/9)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [web-apps](https://hackyourfuture.be/web-apps)  
+    - `4 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/9)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aweb-apps+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/9)_
 
-1. ### [databases](https://hackyourfuture.be/databases) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/10)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [databases](https://hackyourfuture.be/databases)  
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/10)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Adatabases+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/10)_
 
-1. ### [frontend-frameworks](https://hackyourfuture.be/frontend-frameworks) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/11)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [frontend-frameworks](https://hackyourfuture.be/frontend-frameworks)  
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/11)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Afrontend-frameworks+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/11)_
 
-1. ### [agile-development](https://hackyourfuture.be/agile-development) 
-    - _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/12)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aundefined)_
+1. ### [agile-development](https://hackyourfuture.be/agile-development)  
+    - `6 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/12)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aagile-development+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/12)_
 
 </details>
+
 
 [TOP](#class-9-10)
 <!-- END MODULES -->
