@@ -1,27 +1,87 @@
 [
   {
-    "name": "Octo Cat",
-    "userName": "octocat",
-    "homePage": "badgers"
+    "name": "Tiago Mendes-Costa",
+    "userName": "otagi"
   },
   {
-    "name": "Ibrahim Akadr",
+    "name": "Stéphane Nicoll",
+    "userName": "snicoll"
+  },
+  {
+    "name": "Ibrahim Dogrusoz",
+    "userName": "idogrusoz"
+  },
+  {
+    "name": "Akbel Hanim",
+    "userName": "akbelcolak"
+  },
+  {
+    "name": "Yavuz Ugurtas",
+    "userName": "yavuzugurtas"
+  },
+  {
+    "name": "Ibrahim Akadar",
     "userName": "akadarakku"
   },
   {
-    "name": "Rasha",
-    "userName": "Rashaali84"
+    "name": "Evan Cole",
+    "userName": "colevandersWands",
+    "homePage": "https://colevandersWands.github.io"
   },
   {
-    "name": "Evan",
-    "userName": "colevanderswands"
+    "name": "Joel Camacho",
+    "userName": "JoeCamacho"
+  },
+  {
+    "name": "Mert Demirok",
+    "userName": "mert1980"
+  },
+  {
+    "name": "Ufuk Uysal",
+    "userName": "u-uysal"
+  },
+  {
+    "name": "Dirk Jacobs",
+    "userName": "dirk-jacobs"
+  },
+  {
+    "name": "Louise Picot",
+    "userName": "louisepicot"
+  },
+  {
+    "name": "Kevin Tassi",
+    "userName": "kevintss"
   },
   {
     "name": "Dena Cho",
     "userName": "denacho"
   },
   {
-    "name": "Masha",
-    "userName": "ChuikinaMaria"
+    "name": "Berihu Gebremedhin",
+    "userName": "Berihugebre"
+  },
+  {
+    "name": "Maël Brunet",
+    "userName": "maeligg"
+  },
+  {
+    "name": "Unmesh Joshi",
+    "userName": "unmeshvrije"
+  },
+  {
+    "name": "Charles-Axel Pauwels",
+    "userName": "cpauwels"
+  },
+  {
+    "name": "Sali AlMurshidi",
+    "userName": "Sali-Almurshidi"
+  },
+  {
+    "name": "Laurent",
+    "userName": "LaurentVB"
+  },
+  {
+    "name": "Koen",
+    "userName": "koenvd"
   }
 ]

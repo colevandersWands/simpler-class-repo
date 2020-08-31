@@ -1,32 +1,74 @@
 [
   {
-    "name": "built-with-branches-testing",
-    "board": 99,
-    "milestone": 99,
-    "weeks": 3
-  },
-  {
+    "number": 1,
     "name": "working-with-code",
-    "board": 1,
-    "milestone": 9,
-    "weeks": 3
+    "project": 1,
+    "weeks": 1
   },
   {
+    "number": 2,
     "name": "incremental-development",
-    "board": 2,
-    "milestone": 1,
+    "project": 2,
     "weeks": 3
   },
   {
+    "number": 3,
+    "name": "debugging",
+    "project": 3,
+    "weeks": 2
+  },
+  {
+    "number": 4,
+    "name": "testing",
+    "project": 4,
+    "weeks": 3
+  },
+  {
+    "number": 5,
     "name": "separation-of-concerns",
-    "board": 3,
-    "milestone": 1,
+    "project": 5,
+    "weeks": 2
+  },
+  {
+    "number": 6,
+    "name": "state",
+    "project": 6,
+    "weeks": 2
+  },
+  {
+    "number": 7,
+    "name": "encapsulation",
+    "project": 7,
     "weeks": 3
   },
   {
-    "name": "state",
-    "board": 4,
-    "milestone": 4,
+    "number": 8,
+    "name": "asynchronous-programming",
+    "project": 8,
     "weeks": 3
+  },
+  {
+    "number": 9,
+    "name": "web-apps",
+    "project": 9,
+    "weeks": 4
+  },
+  {
+    "number": 10,
+    "name": "databases",
+    "project": 10,
+    "weeks": 2
+  },
+  {
+    "number": 11,
+    "name": "frontend-frameworks",
+    "project": 11,
+    "weeks": 2
+  },
+  {
+    "number": 12,
+    "name": "agile-development",
+    "project": 12,
+    "weeks": 6
   }
 ]
