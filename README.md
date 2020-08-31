@@ -9,10 +9,11 @@ Slack is great for chatting but links and good explanations can easily get lost 
 <!-- BEGIN LINKS -->
 
 - [Homework Boards](https://github.com/hackyourfuturebelgium/class-9-10/projects)
-- [`help-wanted`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Ahelp-wanted)
-- [`review`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Areview)
-- [`roll-call`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Aroll-call)
-- [All Issues](https://github.com/hackyourfuturebelgium/class-9-10/issues)
+- [Class Issues](https://github.com/hackyourfuturebelgium/class-9-10/issues)
+    - [`help-wanted`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Ahelp-wanted)
+    - [`review`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Areview)
+    - [`roll-call`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Aroll-call)
+- [Pull Requests](https://github.com/hackyourfuturebelgium/class-9-10/pulls)
 - [Shared Notes](./shared-notes)
 
 <!-- END LINKS -->
