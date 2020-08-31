@@ -2,13 +2,17 @@
 # class-9-10
 <!-- END HEADER -->
 
+This repository is yours to keep track of what you've covered so far, to get to know each other, to share helpful resources, to practice collaboration workflows, ... to do everything!
+
+Slack is great for chatting but links and good explanations can easily get lost in message history.  Think of this repository as your class' forum and home page.
+
 <!-- BEGIN LINKS -->
 
 - [Homework Boards](https://github.com/hackyourfuturebelgium/class-9-10/projects)
+- [`help-wanted`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Ahelp-wanted)
+- [`review`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Areview)
+- [`roll-call`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Aroll-call)
 - [All Issues](https://github.com/hackyourfuturebelgium/class-9-10/issues)
-- [`help-wanted` label](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Ahelp-wanted)
-- [`review` label](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Areview)
-- [`roll-call` label](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=label%3Aroll-call)
 - [Shared Notes](./shared-notes)
 
 <!-- END LINKS -->
@@ -24,41 +28,41 @@
 <!-- BEGIN MODULES -->
 <h2>Modules</h2><details><summary>expand</summary>
 
-1. ### [working-with-code](https://hackyourfuture.be/working-with-code)  
-    - `1 week`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/1)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aworking-with-code+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/1)_
+1. ### [working-with-code](https://hackyourfuture.be/working-with-code)
+    - `1 week`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/1)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aworking-with-code+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/1)_ | _[recordings](https://hackyourfuture.be/working-with-code#class-recordings)_
 
-1. ### [incremental-development](https://hackyourfuture.be/incremental-development)  
-    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/2)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aincremental-development+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/2)_
+1. ### [incremental-development](https://hackyourfuture.be/incremental-development)
+    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/2)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aincremental-development+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/2)_ | _[recordings](https://hackyourfuture.be/incremental-development#class-recordings)_
 
-1. ### [debugging](https://hackyourfuture.be/debugging)  
-    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/3)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Adebugging+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/3)_
+1. ### [debugging](https://hackyourfuture.be/debugging)
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/3)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Adebugging+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/3)_ | _[recordings](https://hackyourfuture.be/debugging#class-recordings)_
 
-1. ### [testing](https://hackyourfuture.be/testing)  
-    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/4)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Atesting+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/4)_
+1. ### [testing](https://hackyourfuture.be/testing)
+    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/4)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Atesting+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/4)_ | _[recordings](https://hackyourfuture.be/testing#class-recordings)_
 
-1. ### [separation-of-concerns](https://hackyourfuture.be/separation-of-concerns)  
-    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/5)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aseparation-of-concerns+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/5)_
+1. ### [separation-of-concerns](https://hackyourfuture.be/separation-of-concerns)
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/5)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aseparation-of-concerns+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/5)_ | _[recordings](https://hackyourfuture.be/separation-of-concerns#class-recordings)_
 
-1. ### [state](https://hackyourfuture.be/state)  
-    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/6)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Astate+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/6)_
+1. ### [state](https://hackyourfuture.be/state)
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/6)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Astate+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/6)_ | _[recordings](https://hackyourfuture.be/state#class-recordings)_
 
-1. ### [encapsulation](https://hackyourfuture.be/encapsulation)  
-    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/7)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aencapsulation+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/7)_
+1. ### [encapsulation](https://hackyourfuture.be/encapsulation)
+    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/7)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aencapsulation+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/7)_ | _[recordings](https://hackyourfuture.be/encapsulation#class-recordings)_
 
-1. ### [asynchronous-programming](https://hackyourfuture.be/asynchronous-programming)  
-    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/8)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aasynchronous-programming+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/8)_
+1. ### [asynchronous-programming](https://hackyourfuture.be/asynchronous-programming)
+    - `3 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/8)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aasynchronous-programming+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/8)_ | _[recordings](https://hackyourfuture.be/asynchronous-programming#class-recordings)_
 
-1. ### [web-apps](https://hackyourfuture.be/web-apps)  
-    - `4 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/9)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aweb-apps+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/9)_
+1. ### [web-apps](https://hackyourfuture.be/web-apps)
+    - `4 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/9)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aweb-apps+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/9)_ | _[recordings](https://hackyourfuture.be/web-apps#class-recordings)_
 
-1. ### [databases](https://hackyourfuture.be/databases)  
-    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/10)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Adatabases+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/10)_
+1. ### [databases](https://hackyourfuture.be/databases)
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/10)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Adatabases+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/10)_ | _[recordings](https://hackyourfuture.be/databases#class-recordings)_
 
-1. ### [frontend-frameworks](https://hackyourfuture.be/frontend-frameworks)  
-    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/11)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Afrontend-frameworks+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/11)_
+1. ### [frontend-frameworks](https://hackyourfuture.be/frontend-frameworks)
+    - `2 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/11)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Afrontend-frameworks+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/11)_ | _[recordings](https://hackyourfuture.be/frontend-frameworks#class-recordings)_
 
-1. ### [agile-development](https://hackyourfuture.be/agile-development)  
-    - `6 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/12)_ | _[individual issues](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aagile-development+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/12)_
+1. ### [agile-development](https://hackyourfuture.be/agile-development)
+    - `6 weeks`| _[project board](https://github.com/hackyourfuturebelgium/class-9-10/projects/12)_ | _[`individual`](https://github.com/hackyourfuturebelgium/class-9-10/issues?q=milestone%3Aagile-development+label%3Aindividual)_ | _[all issues](https://github.com/hackyourfuturebelgium/class-9-10/milestone/12)_ | _[recordings](https://hackyourfuture.be/agile-development#class-recordings)_
 
 </details>
 
@@ -80,7 +84,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3AIrynaSpyrydonova">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/abelRoland-avatar.jpeg' alt='Abel Roland' /></td>
   <td> <h3 display="inline"><a href="https://abelRoland.github.io">Abel Roland</a></h3>
@@ -90,7 +94,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3AabelRoland">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/julia-sod-avatar.jpeg' alt='Yulia Dogrusoz' /></td>
   <td> <h3 display="inline"><a href="https://julia-sod.github.io">Yulia Dogrusoz</a></h3>
@@ -100,7 +104,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Ajulia-sod">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/yauheniya-askolkava-avatar.jpeg' alt='Yauheniya Askolkava' /></td>
   <td> <h3 display="inline"><a href="https://yauheniya-askolkava.github.io">Yauheniya Askolkava</a></h3>
@@ -110,7 +114,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Ayauheniya-askolkava">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/Eltayeb-Elgaali-avatar.jpeg' alt='Eltayeb Elgaali' /></td>
   <td> <h3 display="inline"><a href="https://Eltayeb-Elgaali.github.io">Eltayeb Elgaali</a></h3>
@@ -120,7 +124,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3AEltayeb-Elgaali">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/yildiraykoyuncu-avatar.jpeg' alt='Yıldıray Koyuncu' /></td>
   <td> <h3 display="inline"><a href="https://yildiraykoyuncu.github.io">Yıldıray Koyuncu</a></h3>
@@ -130,7 +134,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Ayildiraykoyuncu">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/Sayed94h-avatar.jpeg' alt='Sayed Kazimi' /></td>
   <td> <h3 display="inline"><a href="https://Sayed94h.github.io">Sayed Kazimi</a></h3>
@@ -140,7 +144,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3ASayed94h">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/ismailtugan-avatar.jpeg' alt='Ismail Tugan' /></td>
   <td> <h3 display="inline"><a href="https://ismailtugan.github.io">Ismail Tugan</a></h3>
@@ -150,7 +154,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Aismailtugan">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/KaterynaKim-avatar.jpeg' alt='Kateryna Kim' /></td>
   <td> <h3 display="inline"><a href="https://KaterynaKim.github.io">Kateryna Kim</a></h3>
@@ -160,7 +164,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3AKaterynaKim">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/fmkarakus-avatar.jpeg' alt='Fatih Mehmet Karakus' /></td>
   <td> <h3 display="inline"><a href="https://fmkarakus.github.io">Fatih Mehmet Karakus</a></h3>
@@ -170,7 +174,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Afmkarakus">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/harunaltunhr-avatar.jpeg' alt='Harun Altun' /></td>
   <td> <h3 display="inline"><a href="https://harunaltunhr.github.io">Harun Altun</a></h3>
@@ -180,7 +184,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Aharunaltunhr">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/razvanbrb-avatar.jpeg' alt='Razvan Bogdan Burtea' /></td>
   <td> <h3 display="inline"><a href="https://razvanbrb.github.io">Razvan Bogdan Burtea</a></h3>
@@ -190,7 +194,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Arazvanbrb">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/lisarosaa-avatar.jpeg' alt='Lisa Rosanty' /></td>
   <td> <h3 display="inline"><a href="https://lisarosaa.github.io">Lisa Rosanty</a></h3>
@@ -200,7 +204,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Alisarosaa">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/ms-np-avatar.jpeg' alt='Nadia Petra' /></td>
   <td> <h3 display="inline"><a href="https://ms-np.github.io">Nadia Petra</a></h3>
@@ -210,7 +214,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Ams-np">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/Meowri-avatar.jpeg' alt='Mari van Wyk' /></td>
   <td> <h3 display="inline"><a href="https://Meowri.github.io">Mari van Wyk</a></h3>
@@ -220,7 +224,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3AMeowri">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/yaredyilma-avatar.jpeg' alt='Yared Dessalegn' /></td>
   <td> <h3 display="inline"><a href="https://yaredyilma.github.io">Yared Dessalegn</a></h3>
@@ -230,7 +234,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Ayaredyilma">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/nouralkurd-avatar.jpeg' alt='Nouraldin Alkurd' /></td>
   <td> <h3 display="inline"><a href="https://nouralkurd.github.io">Nouraldin Alkurd</a></h3>
@@ -240,7 +244,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Anouralkurd">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/ali1996-sy-avatar.jpeg' alt='Abdulhamid Ali' /></td>
   <td> <h3 display="inline"><a href="https://ali1996-sy.github.io">Abdulhamid Ali</a></h3>
@@ -250,7 +254,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Aali1996-sy">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/aleks2407-avatar.jpeg' alt='Aleksandra Shalimova' /></td>
   <td> <h3 display="inline"><a href="https://aleks2407.github.io">Aleksandra Shalimova</a></h3>
@@ -260,7 +264,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Aaleks2407">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/oguzkarademir-avatar.jpeg' alt='Oguz Karademir' /></td>
   <td> <h3 display="inline"><a href="https://oguzkarademir.github.io">Oguz Karademir</a></h3>
@@ -270,7 +274,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Aoguzkarademir">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/mametur-avatar.jpeg' alt='Mamé Turgut' /></td>
   <td> <h3 display="inline"><a href="https://mametur.github.io">Mamé Turgut</a></h3>
@@ -280,7 +284,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Amametur">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/Mohammad-Musa-avatar.jpeg' alt='Mohammad Musa' /></td>
   <td> <h3 display="inline"><a href="https://Mohammad-Musa.github.io">Mohammad Musa</a></h3>
@@ -290,7 +294,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3AMohammad-Musa">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/LujiAnna-avatar.jpeg' alt='Anna Ikoki' /></td>
   <td> <h3 display="inline"><a href="https://LujiAnna.github.io">Anna Ikoki</a></h3>
@@ -300,7 +304,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3ALujiAnna">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/aame1-avatar.jpeg' alt='Abdul Ameti' /></td>
   <td> <h3 display="inline"><a href="https://aame1.github.io">Abdul Ameti</a></h3>
@@ -310,7 +314,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Aaame1">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/HazemBittar-avatar.jpeg' alt='Hazem Albittar' /></td>
   <td> <h3 display="inline"><a href="https://HazemBittar.github.io">Hazem Albittar</a></h3>
@@ -320,7 +324,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3AHazemBittar">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/pavelbidenko2018-avatar.jpeg' alt='Pavel Bidenko' /></td>
   <td> <h3 display="inline"><a href="https://pavelbidenko2018.github.io">Pavel Bidenko</a></h3>
@@ -330,7 +334,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Apavelbidenko2018">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/gelilaa-avatar.jpeg' alt='Gelila Ali' /></td>
   <td> <h3 display="inline"><a href="https://gelilaa.github.io">Gelila Ali</a></h3>
@@ -340,7 +344,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Agelilaa">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/galalkoro-avatar.jpeg' alt='Galal Ali Ahmed Koro' /></td>
   <td> <h3 display="inline"><a href="https://galalkoro.github.io">Galal Ali Ahmed Koro</a></h3>
@@ -350,7 +354,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Agalalkoro">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/Boam1994-avatar.jpeg' alt='Boam Tchegli' /></td>
   <td> <h3 display="inline"><a href="https://Boam1994.github.io">Boam Tchegli</a></h3>
@@ -360,7 +364,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3ABoam1994">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/adekimpianna-avatar.jpeg' alt='Adek Impianna' /></td>
   <td> <h3 display="inline"><a href="https://adekimpianna.github.io">Adek Impianna</a></h3>
@@ -370,7 +374,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Aadekimpianna">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/Feruzteame-avatar.jpeg' alt='Feruz Teame' /></td>
   <td> <h3 display="inline"><a href="https://Feruzteame.github.io">Feruz Teame</a></h3>
@@ -380,7 +384,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3AFeruzteame">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/murvanessa-avatar.jpeg' alt='Murielle Vanessa Negue Tchoupo' /></td>
   <td> <h3 display="inline"><a href="https://murvanessa.github.io">Murielle Vanessa Negue Tchoupo</a></h3>
@@ -390,7 +394,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Amurvanessa">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/okozmovskaya-avatar.jpeg' alt='Olga Kozmovskaia' /></td>
   <td> <h3 display="inline"><a href="https://okozmovskaya.github.io">Olga Kozmovskaia</a></h3>
@@ -400,7 +404,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Aokozmovskaya">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 <table> <tr>
   <td><img src='./lib/avatars/students/miroslavveljanoski-avatar.jpeg' alt='Miroslav Veljanoski' /></td>
   <td> <h3 display="inline"><a href="https://miroslavveljanoski.github.io">Miroslav Veljanoski</a></h3>
@@ -410,7 +414,7 @@
         <li><a href="https://github.com/hackyourfuturebelgium/class-9-10/issues?q=assigned%3Amiroslavveljanoski">assigned</a></li>
     </ul>
   </td>
-</tr></table > 
+</tr></table >
 </details>
 
 
