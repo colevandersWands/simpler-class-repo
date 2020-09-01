@@ -23,10 +23,10 @@
       <input type="radio" name="sortType" value="groupSize">
       <label for="male">group size</label>
     </form>
-    <br>
-    <button><a id='back-to-repo' href=''>back to repo</a></button>
     <hr>
     <div id="groups"></div>
+    <hr>
+    <button><a id='back-to-repo' href=''>back to repo</a></button>
   </div>
 
   <script id='logic'>
@@ -91,7 +91,7 @@
           `  <ul>` +
           `    ${group
             .map(student => (
-              `<li>${student.name}</li>`
+              `<li><a href="https://github.com/${student.userName}" target="_blank">${student.name}</a></li>`
             ))
             .reduce((all, next) => all + next)}` +
           `  </ul>` +
